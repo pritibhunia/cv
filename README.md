@@ -25,7 +25,10 @@ _I am a Software Engineer working with Siemens Healthineers as a Senior Engineer
 
 **Cloud Engineer** @ [Cognizant](https://www.cognizant.com/) _(Jul 2016 - Sep 2019)_ <br>
 
-
+  - Worked with multiple clients from healthcare and insurance domain where my responsibilities were requirement gathering , decision making, automating deployment, infrastructure migration etc. 
+  - Automated the API configuration flow in Azure API Management, designed the developer portal for customers, designed the monitoring solution.
+  - Automated report generation process to revoke the manual effort.
+  - Provisioned easily manageable cloud infrastructures in Azure using ARM template single click deployment utilizing various IaaS and PaaS services focusing on high-availability, fault tolerance, disaster recovery and auto-scaling.
   - **_Tech Stack:_** Azure, PowerShell, ARM template, Kusto Query Languange, SQL, XML, C#.
     <br><br>
 
@@ -38,9 +41,10 @@ _I am a Software Engineer working with Siemens Healthineers as a Senior Engineer
 
 **Personal** <br>
 
-  - 
-  - 
-  - 
+I like to spend my leisure by reading novels _(I can read anything and everything)_, listening to music or sometimes dancing.
+
+I feel alive when I am travelling and exploring the new places, new culture and specially meeting new people.
+
   <br><br>
   
 ## Education
