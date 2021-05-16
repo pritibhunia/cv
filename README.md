@@ -10,7 +10,6 @@ _I am a Software Engineer working with Siemens Healthineers as a Senior Engineer
 
   - Enhancing and developing new features for diagnostic imaging based digital healthcare product.
   - Responsible for automating end-to-end infrastructure and application deployment process.
-  - 
   - **_Tech Stack:_** HTML, CSS, Hybrid Cloud, Azure DevOps, PowerShell, YAML, ARM template, Kubernetes, C#, .NET Framework.
 <br><br>
 
@@ -44,7 +43,6 @@ _I am a Software Engineer working with Siemens Healthineers as a Senior Engineer
 I like to spend my leisure by reading novels _(I can read anything and everything)_, listening to music or sometimes dancing.
 
 I feel alive when I am travelling and exploring the new places, new culture and specially meeting new people.
-
   <br><br>
   
 ## Education
