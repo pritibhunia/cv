@@ -10,26 +10,6 @@ author:
 #  avatar           : "profile.png"
 #  bio              : "Your biography for the left-hand sidebar"
   location         : "Bangalore, India"
-  employer         :
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "https://github.com/pritibhunia"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
   linkedin         : "https://www.linkedin.com/in/pritibhunia"
-  pinterest        :
-  soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
   twitter          : #"replacethistwitterhandle"
