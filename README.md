@@ -12,7 +12,8 @@ _I am a Software Engineer working with Siemens Healthineers as a Senior Engineer
 
   - Enhancing and developing new features for diagnostic imaging based digital healthcare product.
   - Responsible for automating end-to-end infrastructure and application deployment process.
-  - **_Tech Stack:_** HTML, CSS, Hybrid Cloud, Azure DevOps, PowerShell, YAML, ARM template, Kubernetes, C#, .NET Framework.
+  - Responsible for writing automation test cases using XUnit, BDD, TDD framework, Integration testing and Goss testing.
+  - **_Tech Stack:_** Edge Compuitng, Hybrid Cloud, Azure DevOps, Ansible, PowerShell, YAML, ARM template, Kubernetes, C#, .NET, HTML, CSS, Angualr 11.
 <br><br>
 
 **DevOps Engineer** @ [EY](https://www.ey.com/en_in/careers/global-delivery-services) _(Sep 2019 - Apr 2021)_ <br>
