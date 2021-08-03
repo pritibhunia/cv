@@ -11,9 +11,10 @@ _I am a Software Engineer working with Siemens Healthineers as a Senior Engineer
 **Senior Engineer - Design & Development** @ [Siemens Healthineers](https://www.corporate.siemens-healthineers.com/) _(May 2021 - Present)_ <br>
 
   - Enhancing and developing new features for diagnostic imaging based digital healthcare product.
-  - Responsible for automating end-to-end infrastructure and application deployment process.
+  - Responsible for requirement gathering, successful development and delivery of different components of the product, end-to-end pipeline creation for infrastructure and application deployment, with 90% accuracy.
+  - Responsible for several enhancements which includes Edge platform management and installation, GitOps integration, proxy setup, monitoring services integration and creation of new version of the product but not limited to these.
   - Responsible for writing automation test cases using XUnit, BDD, TDD framework, Integration testing and Goss testing.
-  - **_Tech Stack:_** Edge Compuitng, Hybrid Cloud, Azure DevOps, Ansible, PowerShell, YAML, ARM template, Kubernetes, C#, .NET, HTML, CSS, Angualr 11.
+  - **_Tech Stack:_** Edge Compuitng, Hybrid Cloud, Azure DevOps, Ansible, C#, .NET 5, PowerShell, YAML, ARM template, Kubernetes.
 <br><br>
 
 **DevOps Engineer** @ [EY](https://www.ey.com/en_in/careers/global-delivery-services) _(Sep 2019 - Apr 2021)_ <br>
@@ -39,6 +40,7 @@ _I am a Software Engineer working with Siemens Healthineers as a Senior Engineer
 
 **Technical** <br>
 
+I like to learn new technology stack and spend time on doing research on the new topics. 
   <br><br>
 
 **Personal** <br>
