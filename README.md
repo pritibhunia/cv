@@ -40,7 +40,7 @@ _I am a Software Engineer working with Siemens Healthineers as a Senior Engineer
 
 **Technical** <br>
 
-I like to learn new technology stack and spend time on doing research on the new topics. 
+I like to learn new technology stack and spend time on doing research on new topics. 
   <br><br>
 
 **Personal** <br>
